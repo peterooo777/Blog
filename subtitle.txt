@@ -1,0 +1,3 @@
+如果你沒有開心，也不代表你不開心
+happy happy happy
+#define int long long 
